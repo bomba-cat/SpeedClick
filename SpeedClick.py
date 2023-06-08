@@ -41,7 +41,7 @@ class AboutDialog(QDialog):
         logo.setPixmap(QPixmap(os.path.join('images', 'ma-icon-128.png')))
         layout.addWidget(logo)
 
-        layout.addWidget(QLabel("Version Beta 23.35.211.233232"))
+        layout.addWidget(QLabel("Version Beta 69.69.6969"))
         layout.addWidget(QLabel("Open Source, Code found on GitHub"))
 
         for i in range(0, layout.count()):
